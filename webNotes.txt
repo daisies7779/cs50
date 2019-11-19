@@ -19,7 +19,8 @@ https://github.com/nobaa36/CS50-s-Web---project-0
 Beautiful Munich
 https://github.com/igor97100/project0
 
-
+git clone https://github.com/daisies7779/cs50.git
+git remote add origin https://github.com/daisies7779/cs50.git
 
 
 626656e0aab35375d2d1d83beb4083e81f98a1f4
