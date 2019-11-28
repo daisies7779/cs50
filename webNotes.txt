@@ -1,9 +1,9 @@
 # Course: edx.org CS50's Web Programming with Python and JavaScript
 https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/courseware/3b4d945d89eb40bcad81746770a81c3b/918082613c254e2da55e31d1894bc4be/1?activate_block_id=block-v1%3AHarvardX%2BCS50W%2BWeb%2Btype%40vertical%2Bblock%40d8a51672180d461d9e0a9ca02870d0d9
-https://www.youtube.com/watch?v=1u2qu-EmIRc&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5&t=23s
-
+https://www.youtube.com/watch?v=XQs5KcUj-Do&feature=youtu.be&t=3436s
+1 14 44
 https://www.youtube.com/watch?v=XQs5KcUj-Do&list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5&index=3
-
+Sublime Error: The requested operation cannot be performed on a file with a user-mapped section open.
 # git repository
 https://github.com/daisies7779/lecutre0.git
 https://github.com/daisies7779/lecutre0.git
@@ -29,3 +29,7 @@ file:///C:/eo/edx/Web%20Programming%20with%20Python%20and%20JavaScript/lecture0/
 
 start --browser=xdg-open hello.html
 google-chrome
+
+
+"hello.html"
+"htpps://diena.lv"
